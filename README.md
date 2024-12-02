@@ -10,11 +10,13 @@ Repositório desenvolvido para fins didáticos, com a disponibilização de mate
 ## Objetivo
 Construir meu Primeiro Portfólio Front-end do Zero.
 
-## Tecnologias
-[![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)]()
-[![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E94D5F)]() 
-[![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=30A3DC)]()
-[![Figma](https://img.shields.io/badge/Protótipo%20no%20Figma-000?style=for-the-badge&logo=figma&logoColor=E94D5F)](https://www.figma.com/file/NkndT2SbyHJZWLEsaM8Xn3/DIO-Lab-Portf%C3%B3lio)
+## 💻 Tecnologias
+- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+- ![CSS3](https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white&style=for-the-badge)
+
+- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+
 
 ## Desafio: Portfólio Front-end
 Criei meu próprio portfólio front-end, atentando-me para que seja autêntico, visualmente atraente e responsivo. utilizei as tecnologias que expressam a personalidade e estilo através do design e dos elementos interativos do meu portfólio.
