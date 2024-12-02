@@ -26,8 +26,8 @@ Criei meu próprio portfólio front-end, atentando-me para que seja autêntico, 
 Para dúvidas ou feedback, entre em contato:
 
 - **E-mail:** [douglasjp10@gmail.com](mailto:douglasjp10@gmail.com)
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/douglas-rodrigues-dos-santos-025a0b258/)
-- **GitHub:** [GitHub](https://github.com/douglas2s)
+- **LinkedIn:** [douglas2santos](https://www.linkedin.com/in/douglas-rodrigues-dos-santos-025a0b258/)
+- **GitHub:** [douglas2s](https://github.com/douglas2s)
 
 <br>
 <br>
